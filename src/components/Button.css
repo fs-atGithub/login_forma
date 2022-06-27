@@ -1,0 +1,8 @@
+.button {
+  min-height: 32px;
+  border: 1px solid orangered;
+  background-color: orangered;
+  color: white;
+  margin-top: 16px;
+  padding: 0 8px;
+}
